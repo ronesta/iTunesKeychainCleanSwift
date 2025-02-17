@@ -2,7 +2,7 @@
 //  AlbumCollectionViewCell.swift
 //  iTunesKeychainCleanSwift
 //
-//  Created by Ибрагим Габибли on 11.02.2025.
+//  Created by Ибрагим Габибли on 17.02.2025.
 //
 
 import UIKit
